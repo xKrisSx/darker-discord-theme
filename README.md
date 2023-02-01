@@ -8,3 +8,5 @@ A bit darker discord theme
 3) Open Assets
 4) Find .css file
 5) Paste code at the end of this .css file
+
+or just use better discord custom css
